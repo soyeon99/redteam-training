@@ -1,0 +1,18 @@
+{
+  "target": "13.54.249.195",
+  "scan_time": "2026-05-04T15:06:19.479212",
+  "open_ports": [
+    {
+      "port": 22,
+      "service": "ssh",
+      "product": "OpenSSH",
+      "version": "8.9p1 Ubuntu 3ubuntu0.15"
+    },
+    {
+      "port": 1433,
+      "service": "ms-sql-s",
+      "product": "Microsoft SQL Server",
+      "version": ""
+    }
+  ]
+}

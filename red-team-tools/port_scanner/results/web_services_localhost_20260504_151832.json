@@ -1,0 +1,28 @@
+[
+  {
+    "url": "http://localhost:80",
+    "status_code": 200,
+    "server": "Apache/2.4.25 (Debian)",
+    "powered_by": "",
+    "framework": [
+      "Apache"
+    ],
+    "technologies": [],
+    "title": "Login :: Damn Vulnerable Web Application (DVWA) v1.10 *Development*",
+    "content_type": "text/html;charset=utf-8",
+    "port": 80,
+    "original_service": "http"
+  },
+  {
+    "url": "http://localhost:3000",
+    "status_code": 200,
+    "server": "Unknown",
+    "powered_by": "",
+    "framework": [],
+    "technologies": [],
+    "title": "OWASP Juice Shop",
+    "content_type": "text/html; charset=UTF-8",
+    "port": 3000,
+    "original_service": "ppp"
+  }
+]

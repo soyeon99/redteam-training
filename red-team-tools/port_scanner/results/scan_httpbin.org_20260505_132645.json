@@ -1,0 +1,18 @@
+{
+  "target": "httpbin.org",
+  "scan_time": "2026-05-05T13:26:45.275288",
+  "open_ports": [
+    {
+      "port": 80,
+      "service": "http",
+      "product": "Gunicorn",
+      "version": "19.9.0"
+    },
+    {
+      "port": 443,
+      "service": "http",
+      "product": "Gunicorn",
+      "version": "19.9.0"
+    }
+  ]
+}

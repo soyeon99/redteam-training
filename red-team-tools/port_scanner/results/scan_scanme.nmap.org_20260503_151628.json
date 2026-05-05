@@ -1,0 +1,30 @@
+{
+  "target": "scanme.nmap.org",
+  "scan_time": "2026-05-03T15:16:28.586691",
+  "open_ports": [
+    {
+      "port": 22,
+      "service": "ssh",
+      "product": "OpenSSH",
+      "version": "6.6.1p1 Ubuntu 2ubuntu2.13"
+    },
+    {
+      "port": 80,
+      "service": "http",
+      "product": "Apache httpd",
+      "version": "2.4.7"
+    },
+    {
+      "port": 9929,
+      "service": "nping-echo",
+      "product": "Nping echo",
+      "version": ""
+    },
+    {
+      "port": 31337,
+      "service": "tcpwrapped",
+      "product": "",
+      "version": ""
+    }
+  ]
+}

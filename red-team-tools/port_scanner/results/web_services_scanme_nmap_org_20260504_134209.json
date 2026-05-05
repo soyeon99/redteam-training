@@ -1,0 +1,16 @@
+[
+  {
+    "url": "http://scanme.nmap.org:80",
+    "status_code": 200,
+    "server": "Apache/2.4.7 (Ubuntu)",
+    "powered_by": "",
+    "framework": [
+      "Apache"
+    ],
+    "technologies": [],
+    "title": "Go ahead and ScanMe!",
+    "content_type": "text/html",
+    "port": 80,
+    "original_service": "http"
+  }
+]

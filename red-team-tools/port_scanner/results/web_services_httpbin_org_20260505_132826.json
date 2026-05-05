@@ -1,0 +1,30 @@
+[
+  {
+    "url": "http://httpbin.org:80",
+    "status_code": 200,
+    "server": "gunicorn/19.9.0",
+    "powered_by": "",
+    "framework": [],
+    "technologies": [
+      "jQuery",
+      "React",
+      "Swagger"
+    ],
+    "title": "httpbin.org",
+    "content_type": "text/html; charset=utf-8",
+    "port": 80,
+    "original_service": "http"
+  },
+  {
+    "url": "http://httpbin.org:443",
+    "status_code": 400,
+    "server": "awselb/2.0",
+    "powered_by": "",
+    "framework": [],
+    "technologies": [],
+    "title": "400 The plain HTTP request was sent to HTTPS port",
+    "content_type": "text/html",
+    "port": 443,
+    "original_service": "http"
+  }
+]

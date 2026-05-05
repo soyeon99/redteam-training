@@ -1,0 +1,48 @@
+{
+  "target": "localhost",
+  "scan_time": "2026-05-04T14:45:58.081785",
+  "open_ports": [
+    {
+      "port": 22,
+      "service": "ssh",
+      "product": "OpenSSH",
+      "version": "8.9p1 Ubuntu 3ubuntu0.15"
+    },
+    {
+      "port": 80,
+      "service": "http",
+      "product": "Apache httpd",
+      "version": "2.4.25"
+    },
+    {
+      "port": 1433,
+      "service": "ms-sql-s",
+      "product": "Microsoft SQL Server",
+      "version": ""
+    },
+    {
+      "port": 1434,
+      "service": "ms-sql-s",
+      "product": "Microsoft SQL Server",
+      "version": ""
+    },
+    {
+      "port": 3000,
+      "service": "ppp",
+      "product": "",
+      "version": ""
+    },
+    {
+      "port": 5500,
+      "service": "tcpwrapped",
+      "product": "",
+      "version": ""
+    },
+    {
+      "port": 8081,
+      "service": "blackice-icecap",
+      "product": "",
+      "version": ""
+    }
+  ]
+}
